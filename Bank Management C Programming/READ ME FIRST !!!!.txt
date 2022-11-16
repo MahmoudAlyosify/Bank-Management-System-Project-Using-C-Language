@@ -1,0 +1,8 @@
+BANK MANAGEMENT SYSTEM - C PROGRAMMING
+
+
+PASSWORD - pass
+
+ATM ACC PIN NUMBER - 1234
+
+By Mahmoud Sayed Youssef
